@@ -1,16 +1,17 @@
 
-
-.openBtn { /*atidaryti search hover stilius*/
+/*
+.openBtn { 
   background: #f1f1f1;
   border: none;
   padding: 10px 15px;
   font-size: 20px;
   cursor: pointer;
 }
-
-.openBtn:hover { /*atidaryti search hover stilius*/
+*/
+/* 
+.openBtn:hover {
   background: rgb(255, 255, 255);
-}
+} */
 
 .overlay {
   height: 100%;
